@@ -1,0 +1,2269 @@
+1521224721903	geckodriver	INFO	geckodriver 0.19.1
+1521224721906	geckodriver	INFO	Listening on 127.0.0.1:53269
+1521224723057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.irtZABPRYbPz"
+1521224724366	Marionette	INFO	Enabled via --marionette
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6026): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6026): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6026): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6026): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6026): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6026): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521224729168	Marionette	INFO	Listening on port 59336
+1521224729345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521224729390	Marionette	DEBUG	Register listener.js for window 2147483649
+1521224729458	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521224731644	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521224731644	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521224732438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521224732832	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521224734758	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521224735060	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521224735061	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521224735349	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521224736912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=k7L24rQhbvmijYYP5P0Z+W7TpjZ83mWSbZvgor8MBG8wGHjlD+eljod04Ptvhkok/K1BoBo3tLmvK4204PmlrQ=="
+1521224737765	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=k7L24rQhbvmijYYP5P0Z+W7TpjZ83mWSbZvgor8MBG8wGHjlD+eljod04Ptvhkok/K1BoBo3tLmvK4204PmlrQ=="
+1521224738024	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521224738250	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521224738481	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521224738505	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=k7L24rQhbvmijYYP5P0Z+W7TpjZ83mWSbZvgor8MBG8wGHjlD+eljod04Ptvhkok/K1BoBo3tLmvK4204PmlrQ=="
+1521224739301	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=k7L24rQhbvmijYYP5P0Z+W7TpjZ83mWSbZvgor8MBG8wGHjlD+eljod04Ptvhkok/K1BoBo3tLmvK4204PmlrQ=="
+1521224739302	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=k7L24rQhbvmijYYP5P0Z+W7TpjZ83mWSbZvgor8MBG8wGHjlD+eljod04Ptvhkok/K1BoBo3tLmvK4204PmlrQ=="
+1521224739589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521224739608	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521224739720	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5954): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521228342585	geckodriver	INFO	geckodriver 0.19.1
+1521228342588	geckodriver	INFO	Listening on 127.0.0.1:45275
+1521228343673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JiZhjQk5cPWr"
+1521228345848	Marionette	INFO	Enabled via --marionette
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6329): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6329): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6329): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6329): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6329): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6329): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521228349778	Marionette	INFO	Listening on port 52056
+1521228349950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521228350015	Marionette	DEBUG	Register listener.js for window 2147483649
+1521228350035	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521228351068	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521228351069	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521228351632	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521228351983	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521228353683	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521228353962	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521228353963	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521228354311	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521228355715	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=93Ji+D59BTowPX2a1tLRrX+RxQ6PqfcIQoWJ8iTQSDtB1wJkf2dlvdor6tU2ANqwm66tyA2vFD3o9km25DjIjg=="
+1521228356347	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=93Ji+D59BTowPX2a1tLRrX+RxQ6PqfcIQoWJ8iTQSDtB1wJkf2dlvdor6tU2ANqwm66tyA2vFD3o9km25DjIjg=="
+1521228356606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228356828	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228357049	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228357065	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=93Ji+D59BTowPX2a1tLRrX+RxQ6PqfcIQoWJ8iTQSDtB1wJkf2dlvdor6tU2ANqwm66tyA2vFD3o9km25DjIjg=="
+1521228357919	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=93Ji+D59BTowPX2a1tLRrX+RxQ6PqfcIQoWJ8iTQSDtB1wJkf2dlvdor6tU2ANqwm66tyA2vFD3o9km25DjIjg=="
+1521228357919	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=93Ji+D59BTowPX2a1tLRrX+RxQ6PqfcIQoWJ8iTQSDtB1wJkf2dlvdor6tU2ANqwm66tyA2vFD3o9km25DjIjg=="
+1521228358117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521228358154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521228358333	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+1521228358497	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do"
+1521228360208	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do"
+1521228360208	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do"
+1521228360418	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1521228360492	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521228360708	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6269): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521228389882	geckodriver	INFO	geckodriver 0.19.1
+1521228389930	geckodriver	INFO	Listening on 127.0.0.1:41225
+1521228390980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CpZ4zotVDoxF"
+1521228391952	Marionette	INFO	Enabled via --marionette
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6478): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6478): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6478): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6478): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6478): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6478): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521228394483	Marionette	INFO	Listening on port 51427
+1521228394497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521228394543	Marionette	DEBUG	Register listener.js for window 2147483649
+1521228394615	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521228395413	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521228395413	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521228395962	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521228396357	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521228398260	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521228398641	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521228398641	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521228399805	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/auth_error.jsp"
+1521228399832	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1521228399924	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/auth_error.jsp"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6418): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521228408650	geckodriver	INFO	geckodriver 0.19.1
+1521228408655	geckodriver	INFO	Listening on 127.0.0.1:33130
+1521228409751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Z9gmP4pXo4yc"
+1521228410257	Marionette	INFO	Enabled via --marionette
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6623): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6623): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6623): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6623): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6623): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6623): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521228412322	Marionette	INFO	Listening on port 52637
+1521228412447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521228412499	Marionette	DEBUG	Register listener.js for window 2147483649
+1521228412519	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521228413425	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521228413426	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521228413947	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521228414297	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521228416080	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521228416482	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521228416482	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521228416714	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521228418347	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=hISGn6+AYiTmNRlUTbv/5yK5rhCz4Qo12cUvLmeEVDf8gmytsmd150tDCkC+/CeZwQVI7QNAxAPT4BfL2VsaBw=="
+1521228419448	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=hISGn6+AYiTmNRlUTbv/5yK5rhCz4Qo12cUvLmeEVDf8gmytsmd150tDCkC+/CeZwQVI7QNAxAPT4BfL2VsaBw=="
+1521228419717	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228419947	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228420178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228420211	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=hISGn6+AYiTmNRlUTbv/5yK5rhCz4Qo12cUvLmeEVDf8gmytsmd150tDCkC+/CeZwQVI7QNAxAPT4BfL2VsaBw=="
+1521228421105	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=hISGn6+AYiTmNRlUTbv/5yK5rhCz4Qo12cUvLmeEVDf8gmytsmd150tDCkC+/CeZwQVI7QNAxAPT4BfL2VsaBw=="
+1521228421105	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=hISGn6+AYiTmNRlUTbv/5yK5rhCz4Qo12cUvLmeEVDf8gmytsmd150tDCkC+/CeZwQVI7QNAxAPT4BfL2VsaBw=="
+1521228421299	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521228421483	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521228421684	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6562): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521228451659	geckodriver	INFO	geckodriver 0.19.1
+1521228451665	geckodriver	INFO	Listening on 127.0.0.1:48912
+1521228452752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kqJD9htgCl3J"
+1521228453733	Marionette	INFO	Enabled via --marionette
+
+(firefox:6706): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6706): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6706): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6706): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6706): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6706): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6766): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6766): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6766): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6766): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6766): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:6766): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521228456417	Marionette	INFO	Listening on port 55725
+1521228456521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521228456577	Marionette	DEBUG	Register listener.js for window 2147483649
+1521228456591	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521228457308	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521228457309	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521228457822	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521228458146	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521228460858	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521228461343	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521228461343	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521228461589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521228463914	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=iD9cfZuLQ4k5qVNqkRsRrJq8X4ViVD/HLUV2TeCQArW8SERsK0vhn7iCVQ10AEeznSuQVxe8GOyudAqXjcEUqw=="
+1521228464559	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=iD9cfZuLQ4k5qVNqkRsRrJq8X4ViVD/HLUV2TeCQArW8SERsK0vhn7iCVQ10AEeznSuQVxe8GOyudAqXjcEUqw=="
+1521228464821	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228465070	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228465299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228465326	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=iD9cfZuLQ4k5qVNqkRsRrJq8X4ViVD/HLUV2TeCQArW8SERsK0vhn7iCVQ10AEeznSuQVxe8GOyudAqXjcEUqw=="
+1521228466166	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=iD9cfZuLQ4k5qVNqkRsRrJq8X4ViVD/HLUV2TeCQArW8SERsK0vhn7iCVQ10AEeznSuQVxe8GOyudAqXjcEUqw=="
+1521228466167	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=iD9cfZuLQ4k5qVNqkRsRrJq8X4ViVD/HLUV2TeCQArW8SERsK0vhn7iCVQ10AEeznSuQVxe8GOyudAqXjcEUqw=="
+1521228466385	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521228466422	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521228466557	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+1521228650150	geckodriver	INFO	geckodriver 0.19.1
+1521228650205	geckodriver	INFO	Listening on 127.0.0.1:34862
+1521228651253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wTj0aW3PRRR8"
+1521228652425	Marionette	INFO	Enabled via --marionette
+
+(firefox:7032): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7032): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7032): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7032): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7032): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7032): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7093): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7093): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7093): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7093): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7093): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7093): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521228654721	Marionette	INFO	Listening on port 48145
+1521228654844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521228654905	Marionette	DEBUG	Register listener.js for window 2147483649
+1521228654927	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521228655784	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521228655785	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521228656453	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521228656835	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521228659043	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521228659342	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521228659342	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521228659616	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521228661824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=w7ftUB1kxXDa1fVVNuVDW4ZRljiNAVnQryCNJtzddMyOnpOXHfz2eDpgI7knRbwJlYntWR/R9zBJSYBp/UBieg=="
+1521228662513	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=w7ftUB1kxXDa1fVVNuVDW4ZRljiNAVnQryCNJtzddMyOnpOXHfz2eDpgI7knRbwJlYntWR/R9zBJSYBp/UBieg=="
+1521228662782	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228663030	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228663260	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228663276	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=w7ftUB1kxXDa1fVVNuVDW4ZRljiNAVnQryCNJtzddMyOnpOXHfz2eDpgI7knRbwJlYntWR/R9zBJSYBp/UBieg=="
+1521228664408	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=w7ftUB1kxXDa1fVVNuVDW4ZRljiNAVnQryCNJtzddMyOnpOXHfz2eDpgI7knRbwJlYntWR/R9zBJSYBp/UBieg=="
+1521228664408	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=w7ftUB1kxXDa1fVVNuVDW4ZRljiNAVnQryCNJtzddMyOnpOXHfz2eDpgI7knRbwJlYntWR/R9zBJSYBp/UBieg=="
+1521228664713	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521228664776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521228664943	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+1521228913936	geckodriver	INFO	geckodriver 0.19.1
+1521228914018	geckodriver	INFO	Listening on 127.0.0.1:37352
+1521228915041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nb7jtWGeFN5w"
+1521228915927	Marionette	INFO	Enabled via --marionette
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7318): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7318): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7318): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7318): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7318): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7318): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521228918278	Marionette	INFO	Listening on port 39304
+1521228918353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521228918404	Marionette	DEBUG	Register listener.js for window 2147483649
+1521228918425	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521228919305	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521228919305	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521228919931	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521228920262	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521228922415	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521228922670	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521228922670	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521228922970	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521228926573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=M9fC0Z2lR7IMPttZXVzeUEfVSdQgGJ0cP8b5grG3Jk/lktgDc2Rs2+p/M5Dd6/iwLjQUsAWj87OmPd7QbFSrvQ=="
+1521228927368	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=M9fC0Z2lR7IMPttZXVzeUEfVSdQgGJ0cP8b5grG3Jk/lktgDc2Rs2+p/M5Dd6/iwLjQUsAWj87OmPd7QbFSrvQ=="
+1521228927632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228927855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228928074	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521228928092	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=M9fC0Z2lR7IMPttZXVzeUEfVSdQgGJ0cP8b5grG3Jk/lktgDc2Rs2+p/M5Dd6/iwLjQUsAWj87OmPd7QbFSrvQ=="
+1521228928927	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=M9fC0Z2lR7IMPttZXVzeUEfVSdQgGJ0cP8b5grG3Jk/lktgDc2Rs2+p/M5Dd6/iwLjQUsAWj87OmPd7QbFSrvQ=="
+1521228928927	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=M9fC0Z2lR7IMPttZXVzeUEfVSdQgGJ0cP8b5grG3Jk/lktgDc2Rs2+p/M5Dd6/iwLjQUsAWj87OmPd7QbFSrvQ=="
+1521228929140	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521228929153	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521228929505	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7258): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521229126226	geckodriver	INFO	geckodriver 0.19.1
+1521229126232	geckodriver	INFO	Listening on 127.0.0.1:35273
+1521229127327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LlKdMlzkNgDp"
+1521229127826	Marionette	INFO	Enabled via --marionette
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7490): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7490): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7490): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7490): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7490): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7490): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521229130022	Marionette	INFO	Listening on port 35412
+1521229130043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521229130098	Marionette	DEBUG	Register listener.js for window 2147483649
+1521229130174	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521229132214	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521229132214	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521229132851	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521229133785	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521229137008	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521229137360	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521229137360	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521229137627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521229139778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=QEOA7kKerue93XDN5LvnP+Pq7WkWG1C7U9tAptrspzX/rJTAPcWXTeqFZ4sDOdy4bzhKHFgo9JDmeuZ7fyMJYA=="
+1521229140395	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=QEOA7kKerue93XDN5LvnP+Pq7WkWG1C7U9tAptrspzX/rJTAPcWXTeqFZ4sDOdy4bzhKHFgo9JDmeuZ7fyMJYA=="
+1521229140664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229140917	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229141167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229141194	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=QEOA7kKerue93XDN5LvnP+Pq7WkWG1C7U9tAptrspzX/rJTAPcWXTeqFZ4sDOdy4bzhKHFgo9JDmeuZ7fyMJYA=="
+1521229142494	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=QEOA7kKerue93XDN5LvnP+Pq7WkWG1C7U9tAptrspzX/rJTAPcWXTeqFZ4sDOdy4bzhKHFgo9JDmeuZ7fyMJYA=="
+1521229142495	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=QEOA7kKerue93XDN5LvnP+Pq7WkWG1C7U9tAptrspzX/rJTAPcWXTeqFZ4sDOdy4bzhKHFgo9JDmeuZ7fyMJYA=="
+1521229142700	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521229142736	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229142903	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229148244	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229149865	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229149866	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229150212	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1521229150346	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229150545	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7429): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521229319747	geckodriver	INFO	geckodriver 0.19.1
+1521229319753	geckodriver	INFO	Listening on 127.0.0.1:41484
+1521229320843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qz8LhoWuff68"
+1521229321368	Marionette	INFO	Enabled via --marionette
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7709): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7709): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7709): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7709): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7709): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7709): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521229323474	Marionette	INFO	Listening on port 60034
+1521229323591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521229323662	Marionette	DEBUG	Register listener.js for window 2147483649
+1521229323684	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521229324577	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521229324577	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521229325170	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521229325653	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521229327955	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521229328255	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521229328256	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521229328511	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521229329714	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=SsnIWf1lXzspmrHRY61koyYK/d4s50PUTNlhD6p3MlccyR//LHiKEQ2BYJvPiRuw9SvsfXMbPwgoZq8pfJOWRA=="
+1521229330422	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=SsnIWf1lXzspmrHRY61koyYK/d4s50PUTNlhD6p3MlccyR//LHiKEQ2BYJvPiRuw9SvsfXMbPwgoZq8pfJOWRA=="
+1521229330699	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229330954	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229331178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229331201	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=SsnIWf1lXzspmrHRY61koyYK/d4s50PUTNlhD6p3MlccyR//LHiKEQ2BYJvPiRuw9SvsfXMbPwgoZq8pfJOWRA=="
+1521229332468	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=SsnIWf1lXzspmrHRY61koyYK/d4s50PUTNlhD6p3MlccyR//LHiKEQ2BYJvPiRuw9SvsfXMbPwgoZq8pfJOWRA=="
+1521229332469	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=SsnIWf1lXzspmrHRY61koyYK/d4s50PUTNlhD6p3MlccyR//LHiKEQ2BYJvPiRuw9SvsfXMbPwgoZq8pfJOWRA=="
+1521229332690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521229332751	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229332901	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229335304	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229337322	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229337322	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229337570	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1521229337641	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229337843	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521229453574	geckodriver	INFO	geckodriver 0.19.1
+1521229453578	geckodriver	INFO	Listening on 127.0.0.1:43439
+1521229454675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oH6UMlrmDJkJ"
+1521229455208	Marionette	INFO	Enabled via --marionette
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7900): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7900): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7900): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7900): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7900): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:7900): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521229457425	Marionette	INFO	Listening on port 40516
+1521229457540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521229457597	Marionette	DEBUG	Register listener.js for window 2147483649
+1521229457627	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521229459611	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521229459611	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521229460334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521229460712	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521229461902	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521229462212	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521229462212	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521229462468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521229463701	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=yORyo3ePE7s0se2xluCUXwmqLZVBsLdTvYcZYB7/JQOKJuiUz61khD+RtxgtCeBs1R0pRta291iGxSfG3o9eoQ=="
+1521229464363	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=yORyo3ePE7s0se2xluCUXwmqLZVBsLdTvYcZYB7/JQOKJuiUz61khD+RtxgtCeBs1R0pRta291iGxSfG3o9eoQ=="
+1521229464635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229464890	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229465122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229465152	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=yORyo3ePE7s0se2xluCUXwmqLZVBsLdTvYcZYB7/JQOKJuiUz61khD+RtxgtCeBs1R0pRta291iGxSfG3o9eoQ=="
+1521229466265	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=yORyo3ePE7s0se2xluCUXwmqLZVBsLdTvYcZYB7/JQOKJuiUz61khD+RtxgtCeBs1R0pRta291iGxSfG3o9eoQ=="
+1521229466267	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=yORyo3ePE7s0se2xluCUXwmqLZVBsLdTvYcZYB7/JQOKJuiUz61khD+RtxgtCeBs1R0pRta291iGxSfG3o9eoQ=="
+1521229466500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229466507	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521229466605	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229467026	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229472237	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7840): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521229531728	geckodriver	INFO	geckodriver 0.19.1
+1521229531785	geckodriver	INFO	Listening on 127.0.0.1:57352
+1521229532831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IuxqPQBYNMjD"
+1521229533376	Marionette	INFO	Enabled via --marionette
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8073): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8073): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8073): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8073): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8073): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8073): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521229535674	Marionette	INFO	Listening on port 48389
+1521229535773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521229535827	Marionette	DEBUG	Register listener.js for window 2147483649
+1521229535841	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521229537759	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521229537759	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521229538275	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521229538649	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521229539895	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521229540280	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521229540282	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521229540530	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521229542012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=lxYouZJePmwd0eeq62mktYz6RP5sQ/nOC+WEQcN7tcE3UigCtgdHEhjOA8f9p6Zuoph0EHH+qfxg5W7KL4S77Q=="
+1521229542672	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=lxYouZJePmwd0eeq62mktYz6RP5sQ/nOC+WEQcN7tcE3UigCtgdHEhjOA8f9p6Zuoph0EHH+qfxg5W7KL4S77Q=="
+1521229542932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229543166	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229543396	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229543427	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=lxYouZJePmwd0eeq62mktYz6RP5sQ/nOC+WEQcN7tcE3UigCtgdHEhjOA8f9p6Zuoph0EHH+qfxg5W7KL4S77Q=="
+1521229544204	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=lxYouZJePmwd0eeq62mktYz6RP5sQ/nOC+WEQcN7tcE3UigCtgdHEhjOA8f9p6Zuoph0EHH+qfxg5W7KL4S77Q=="
+1521229544205	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=lxYouZJePmwd0eeq62mktYz6RP5sQ/nOC+WEQcN7tcE3UigCtgdHEhjOA8f9p6Zuoph0EHH+qfxg5W7KL4S77Q=="
+1521229544402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229544454	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521229544537	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8012): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521229811458	geckodriver	INFO	geckodriver 0.19.1
+1521229811463	geckodriver	INFO	Listening on 127.0.0.1:45105
+1521229812568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jdod4c7r5gwM"
+1521229813123	Marionette	INFO	Enabled via --marionette
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8268): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8268): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8268): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8268): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8268): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8268): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521229815420	Marionette	INFO	Listening on port 48516
+1521229815538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521229815589	Marionette	DEBUG	Register listener.js for window 2147483649
+1521229815609	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521229816392	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521229816392	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521229816883	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521229817334	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521229819097	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521229819442	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521229819443	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521229819683	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521229820892	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=hViMbQkBKIb8L3/Xy7dZNdMu9MWtMPvguM6O5gBNTFE6TKHxspV5YBp+o8h5NhlbfJXRHMsAGpxVEWacWSLgJg=="
+1521229821561	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=hViMbQkBKIb8L3/Xy7dZNdMu9MWtMPvguM6O5gBNTFE6TKHxspV5YBp+o8h5NhlbfJXRHMsAGpxVEWacWSLgJg=="
+1521229821819	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229822050	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229822284	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229822318	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=hViMbQkBKIb8L3/Xy7dZNdMu9MWtMPvguM6O5gBNTFE6TKHxspV5YBp+o8h5NhlbfJXRHMsAGpxVEWacWSLgJg=="
+1521229823481	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=hViMbQkBKIb8L3/Xy7dZNdMu9MWtMPvguM6O5gBNTFE6TKHxspV5YBp+o8h5NhlbfJXRHMsAGpxVEWacWSLgJg=="
+1521229823482	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=hViMbQkBKIb8L3/Xy7dZNdMu9MWtMPvguM6O5gBNTFE6TKHxspV5YBp+o8h5NhlbfJXRHMsAGpxVEWacWSLgJg=="
+1521229823695	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521229823760	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229823926	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521229886273	geckodriver	INFO	geckodriver 0.19.1
+1521229886278	geckodriver	INFO	Listening on 127.0.0.1:36720
+1521229887385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ohb4e01dZ0hc"
+1521229887913	Marionette	INFO	Enabled via --marionette
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8435): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8435): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8435): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8435): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8435): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8435): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521229890129	Marionette	INFO	Listening on port 56903
+1521229890216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521229890269	Marionette	DEBUG	Register listener.js for window 2147483649
+1521229890292	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521229892307	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521229892307	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521229892928	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521229893356	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521229895235	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521229895524	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521229895524	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521229895828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521229897162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=XGUk2ax1dapsSjNpSinPu5c5REo2RT83krlE4TRct0M+stVz8zvCd/VxIA4b8VRa+z8v6igGJ1xcEKoHeOYzVw=="
+1521229897888	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=XGUk2ax1dapsSjNpSinPu5c5REo2RT83krlE4TRct0M+stVz8zvCd/VxIA4b8VRa+z8v6igGJ1xcEKoHeOYzVw=="
+1521229898156	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229898381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229898617	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521229898643	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=XGUk2ax1dapsSjNpSinPu5c5REo2RT83krlE4TRct0M+stVz8zvCd/VxIA4b8VRa+z8v6igGJ1xcEKoHeOYzVw=="
+1521229899468	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=XGUk2ax1dapsSjNpSinPu5c5REo2RT83krlE4TRct0M+stVz8zvCd/VxIA4b8VRa+z8v6igGJ1xcEKoHeOYzVw=="
+1521229899468	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=XGUk2ax1dapsSjNpSinPu5c5REo2RT83krlE4TRct0M+stVz8zvCd/VxIA4b8VRa+z8v6igGJ1xcEKoHeOYzVw=="
+1521229899680	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521229899738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521229899873	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+1521230029673	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8376): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521230156089	geckodriver	INFO	geckodriver 0.19.1
+1521230156092	geckodriver	INFO	Listening on 127.0.0.1:59517
+1521230157190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KbRieq1ZPoDZ"
+1521230158683	Marionette	INFO	Enabled via --marionette
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8648): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8648): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521230161430	Marionette	INFO	Listening on port 34520
+1521230161549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521230161612	Marionette	DEBUG	Register listener.js for window 2147483649
+1521230161633	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521230162449	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521230162449	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521230162994	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521230163566	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8589): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521230186965	geckodriver	INFO	geckodriver 0.19.1
+1521230186970	geckodriver	INFO	Listening on 127.0.0.1:46010
+1521230188066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.c2yW3rP9OnnJ"
+1521230188715	Marionette	INFO	Enabled via --marionette
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8797): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8797): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8797): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8797): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8797): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8797): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521230190768	Marionette	INFO	Listening on port 47090
+1521230190786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521230190829	Marionette	DEBUG	Register listener.js for window 2147483649
+1521230190921	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521230191705	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521230191705	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521230192254	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521230192596	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8737): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521230282306	geckodriver	INFO	geckodriver 0.19.1
+1521230282312	geckodriver	INFO	Listening on 127.0.0.1:55375
+1521230283411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kDr9EUtPbjfg"
+1521230284108	Marionette	INFO	Enabled via --marionette
+
+(firefox:8899): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8899): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8899): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8899): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:8899): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:8899): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8960): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8960): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8960): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8960): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8960): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:8960): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521230286240	Marionette	INFO	Listening on port 48845
+1521230286374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521230286434	Marionette	DEBUG	Register listener.js for window 2147483649
+1521230286448	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521230288481	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521230288482	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521230289025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521230289478	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521230291268	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521230291553	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521230291553	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521230291776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521230293131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=G3+OuOWPOXsfsybCnow87K8zw9fG7Dg4k7xdUXbQJ8ncYYCmFUUW2T4c7MmSrCZPc68FJp4cnpD+iLi6U3tCoA=="
+1521230293800	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=G3+OuOWPOXsfsybCnow87K8zw9fG7Dg4k7xdUXbQJ8ncYYCmFUUW2T4c7MmSrCZPc68FJp4cnpD+iLi6U3tCoA=="
+1521230294064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521230294288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521230294523	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521230294551	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=G3+OuOWPOXsfsybCnow87K8zw9fG7Dg4k7xdUXbQJ8ncYYCmFUUW2T4c7MmSrCZPc68FJp4cnpD+iLi6U3tCoA=="
+1521230295829	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=G3+OuOWPOXsfsybCnow87K8zw9fG7Dg4k7xdUXbQJ8ncYYCmFUUW2T4c7MmSrCZPc68FJp4cnpD+iLi6U3tCoA=="
+1521230295829	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=G3+OuOWPOXsfsybCnow87K8zw9fG7Dg4k7xdUXbQJ8ncYYCmFUUW2T4c7MmSrCZPc68FJp4cnpD+iLi6U3tCoA=="
+1521230296011	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521230296052	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521230296236	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.fieldglass.net
+1521230895263	geckodriver	INFO	geckodriver 0.19.1
+1521230895268	geckodriver	INFO	Listening on 127.0.0.1:42949
+1521230896357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sHZ1aXHsA2Fx"
+1521230897060	Marionette	INFO	Enabled via --marionette
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9218): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9218): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9218): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9218): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9218): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9218): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521230899102	Marionette	INFO	Listening on port 51066
+1521230899247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521230899302	Marionette	DEBUG	Register listener.js for window 2147483649
+1521230899322	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521230900095	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521230900095	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521230900700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521230901097	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521230902803	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521230903217	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521230903218	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521230903457	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521230904819	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=NB7g9Rjif4P7sZsMwVtK/DZVk/z+6EbXtUygSXpyYNmwwSlio0g3NOkZJH7emmZy7L5G8LZ6fBVHlVUohJ/Eug=="
+1521230905506	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=NB7g9Rjif4P7sZsMwVtK/DZVk/z+6EbXtUygSXpyYNmwwSlio0g3NOkZJH7emmZy7L5G8LZ6fBVHlVUohJ/Eug=="
+1521230905757	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521230905985	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521230906210	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521230906233	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=NB7g9Rjif4P7sZsMwVtK/DZVk/z+6EbXtUygSXpyYNmwwSlio0g3NOkZJH7emmZy7L5G8LZ6fBVHlVUohJ/Eug=="
+1521230907781	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=NB7g9Rjif4P7sZsMwVtK/DZVk/z+6EbXtUygSXpyYNmwwSlio0g3NOkZJH7emmZy7L5G8LZ6fBVHlVUohJ/Eug=="
+1521230907781	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=NB7g9Rjif4P7sZsMwVtK/DZVk/z+6EbXtUygSXpyYNmwwSlio0g3NOkZJH7emmZy7L5G8LZ6fBVHlVUohJ/Eug=="
+1521230907960	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521230907999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521230908087	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9157): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521230955262	geckodriver	INFO	geckodriver 0.19.1
+1521230955267	geckodriver	INFO	Listening on 127.0.0.1:44941
+1521230956358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EjnmmCa5453m"
+1521230957006	Marionette	INFO	Enabled via --marionette
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9396): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9396): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9396): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9396): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9396): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9396): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521230959253	Marionette	INFO	Listening on port 41785
+1521230959273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521230959325	Marionette	DEBUG	Register listener.js for window 2147483649
+1521230959343	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521230961363	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521230961363	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521230961895	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521230962275	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521230963961	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521230964313	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521230964313	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521230964569	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521230967272	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=ilmPQfxJIAgVniEqdDpdCxmkg1Qhju/qCszQLgY3J7rbZ6ahwNcG6rbIysxSpnF6/tpLpwCcDHFUihdUBPoMpw=="
+1521230967941	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=ilmPQfxJIAgVniEqdDpdCxmkg1Qhju/qCszQLgY3J7rbZ6ahwNcG6rbIysxSpnF6/tpLpwCcDHFUihdUBPoMpw=="
+1521230968201	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521230968430	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521230968668	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521230968699	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=ilmPQfxJIAgVniEqdDpdCxmkg1Qhju/qCszQLgY3J7rbZ6ahwNcG6rbIysxSpnF6/tpLpwCcDHFUihdUBPoMpw=="
+1521230969638	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=ilmPQfxJIAgVniEqdDpdCxmkg1Qhju/qCszQLgY3J7rbZ6ahwNcG6rbIysxSpnF6/tpLpwCcDHFUihdUBPoMpw=="
+1521230969638	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=ilmPQfxJIAgVniEqdDpdCxmkg1Qhju/qCszQLgY3J7rbZ6ahwNcG6rbIysxSpnF6/tpLpwCcDHFUihdUBPoMpw=="
+1521230969834	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521230969892	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521230970022	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9336): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521231404818	geckodriver	INFO	geckodriver 0.19.1
+1521231404823	geckodriver	INFO	Listening on 127.0.0.1:57847
+1521231405926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4jm2xTFpaEl5"
+1521231406418	Marionette	INFO	Enabled via --marionette
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9610): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9610): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9610): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9610): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9610): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9610): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521231408532	Marionette	INFO	Listening on port 40504
+1521231408540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521231408591	Marionette	DEBUG	Register listener.js for window 2147483649
+1521231408666	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521231410558	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521231410558	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521231411206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521231411595	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521231413321	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521231413981	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521231413981	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521231414240	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521231417940	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=vZShb9VLGvGuHbYsYV2HsVytWgN1C3mZgSF+fLVyhafP5SEk0H4ELn2v39EnAlVHQrtn6WYWFp9pMxs06ZcaRw=="
+1521231418612	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=vZShb9VLGvGuHbYsYV2HsVytWgN1C3mZgSF+fLVyhafP5SEk0H4ELn2v39EnAlVHQrtn6WYWFp9pMxs06ZcaRw=="
+1521231418873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521231419118	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521231419342	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521231419371	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=vZShb9VLGvGuHbYsYV2HsVytWgN1C3mZgSF+fLVyhafP5SEk0H4ELn2v39EnAlVHQrtn6WYWFp9pMxs06ZcaRw=="
+1521231420505	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=vZShb9VLGvGuHbYsYV2HsVytWgN1C3mZgSF+fLVyhafP5SEk0H4ELn2v39EnAlVHQrtn6WYWFp9pMxs06ZcaRw=="
+1521231420505	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=vZShb9VLGvGuHbYsYV2HsVytWgN1C3mZgSF+fLVyhafP5SEk0H4ELn2v39EnAlVHQrtn6WYWFp9pMxs06ZcaRw=="
+1521231420697	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521231420760	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521231420916	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9550): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521231441540	geckodriver	INFO	geckodriver 0.19.1
+1521231441543	geckodriver	INFO	Listening on 127.0.0.1:52049
+1521231442651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qg27MUF0GgsZ"
+1521231443984	Marionette	INFO	Enabled via --marionette
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9759): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9759): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9759): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9759): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9759): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9759): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521231446531	Marionette	INFO	Listening on port 52910
+1521231446658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521231446716	Marionette	DEBUG	Register listener.js for window 2147483649
+1521231446737	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521231448722	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521231448723	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521231449323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521231449658	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521231451367	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521231451724	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521231451724	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521231451992	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521231454107	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=o/FXzN2t6Rp7no+lb2J7YGMC1wlajArkOAIUdnXf9HUwQxnHhpefEJinO1SvcaedmhCivE+2wldgVs+fap5bZA=="
+1521231454770	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=o/FXzN2t6Rp7no+lb2J7YGMC1wlajArkOAIUdnXf9HUwQxnHhpefEJinO1SvcaedmhCivE+2wldgVs+fap5bZA=="
+1521231455040	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521231455272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521231455494	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521231455522	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=o/FXzN2t6Rp7no+lb2J7YGMC1wlajArkOAIUdnXf9HUwQxnHhpefEJinO1SvcaedmhCivE+2wldgVs+fap5bZA=="
+1521231456286	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=o/FXzN2t6Rp7no+lb2J7YGMC1wlajArkOAIUdnXf9HUwQxnHhpefEJinO1SvcaedmhCivE+2wldgVs+fap5bZA=="
+1521231456287	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=o/FXzN2t6Rp7no+lb2J7YGMC1wlajArkOAIUdnXf9HUwQxnHhpefEJinO1SvcaedmhCivE+2wldgVs+fap5bZA=="
+1521231456530	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521231456559	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521231456778	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9697): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521231988771	geckodriver	INFO	geckodriver 0.19.1
+1521231988780	geckodriver	INFO	Listening on 127.0.0.1:48584
+1521231989940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gSzxzgvlMas9"
+1521231990761	Marionette	INFO	Enabled via --marionette
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9922): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9922): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9922): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9922): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9922): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:9922): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521231992914	Marionette	INFO	Listening on port 53612
+1521231993101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521231993173	Marionette	DEBUG	Register listener.js for window 2147483649
+1521231993188	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521231994325	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521231994326	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521231995160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521231995443	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521231997187	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521231997861	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521231997862	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521231998170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521231999912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=PH5Vk2xrAQtGbQ285Q8/uLhvK4a26QfLzWISaFf2D2hpyHvcQD6PyWaYGM3dOSxDMf091VRnZqVDNKhkJ0J5jA=="
+1521232000548	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=PH5Vk2xrAQtGbQ285Q8/uLhvK4a26QfLzWISaFf2D2hpyHvcQD6PyWaYGM3dOSxDMf091VRnZqVDNKhkJ0J5jA=="
+1521232000820	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232001072	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232001306	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232001335	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=PH5Vk2xrAQtGbQ285Q8/uLhvK4a26QfLzWISaFf2D2hpyHvcQD6PyWaYGM3dOSxDMf091VRnZqVDNKhkJ0J5jA=="
+1521232002375	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=PH5Vk2xrAQtGbQ285Q8/uLhvK4a26QfLzWISaFf2D2hpyHvcQD6PyWaYGM3dOSxDMf091VRnZqVDNKhkJ0J5jA=="
+1521232002375	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=PH5Vk2xrAQtGbQ285Q8/uLhvK4a26QfLzWISaFf2D2hpyHvcQD6PyWaYGM3dOSxDMf091VRnZqVDNKhkJ0J5jA=="
+1521232002580	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521232002639	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521232002822	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9860): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521232233600	geckodriver	INFO	geckodriver 0.19.1
+1521232233605	geckodriver	INFO	Listening on 127.0.0.1:37519
+1521232234706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TaEgnOQNN2os"
+1521232235731	Marionette	INFO	Enabled via --marionette
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10102): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10102): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10102): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10102): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10102): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10102): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521232237941	Marionette	INFO	Listening on port 54173
+1521232238056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521232238122	Marionette	DEBUG	Register listener.js for window 2147483649
+1521232238146	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521232240191	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521232240191	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521232240834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521232241286	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521232242951	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521232243219	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521232243220	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521232243479	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521232245505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=cJmzV92HjfIKc5IJ1WtdZxt6DV7zWFglDKAURn6XXBScmZMIwnRNT4F9GZC+dnPfkhwFhMZj5GXjYV5KrikHkQ=="
+1521232246765	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=cJmzV92HjfIKc5IJ1WtdZxt6DV7zWFglDKAURn6XXBScmZMIwnRNT4F9GZC+dnPfkhwFhMZj5GXjYV5KrikHkQ=="
+1521232247022	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232247247	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232247484	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232247507	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=cJmzV92HjfIKc5IJ1WtdZxt6DV7zWFglDKAURn6XXBScmZMIwnRNT4F9GZC+dnPfkhwFhMZj5GXjYV5KrikHkQ=="
+1521232248830	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=cJmzV92HjfIKc5IJ1WtdZxt6DV7zWFglDKAURn6XXBScmZMIwnRNT4F9GZC+dnPfkhwFhMZj5GXjYV5KrikHkQ=="
+1521232248830	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=cJmzV92HjfIKc5IJ1WtdZxt6DV7zWFglDKAURn6XXBScmZMIwnRNT4F9GZC+dnPfkhwFhMZj5GXjYV5KrikHkQ=="
+1521232249021	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521232249056	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521232249235	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E001D,name=PHal::Msg_DisableScreenConfigurationNotifications) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10042): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521232363597	geckodriver	INFO	geckodriver 0.19.1
+1521232363599	geckodriver	INFO	Listening on 127.0.0.1:47907
+1521232364687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6FNw44PcfUhE"
+1521232365372	Marionette	INFO	Enabled via --marionette
+
+(firefox:10216): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10216): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10216): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10216): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10216): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10216): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10276): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10276): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10276): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10276): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10276): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10276): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521232368455	Marionette	INFO	Listening on port 38871
+1521232368636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521232368686	Marionette	DEBUG	Register listener.js for window 2147483649
+1521232368716	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521232370802	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521232370802	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521232371396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521232371910	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521232373131	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521232373441	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521232373441	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521232373699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521232379814	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=gpLsYXitw7De01PeD+ouryTOfILEp3e7cbTuE610DrjBRhDMYBABYsbf7XXY5mfKGi8qNltAHW5DE8Js1N8Urw=="
+1521232380531	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=gpLsYXitw7De01PeD+ouryTOfILEp3e7cbTuE610DrjBRhDMYBABYsbf7XXY5mfKGi8qNltAHW5DE8Js1N8Urw=="
+1521232380787	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232381009	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232381231	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232381247	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=gpLsYXitw7De01PeD+ouryTOfILEp3e7cbTuE610DrjBRhDMYBABYsbf7XXY5mfKGi8qNltAHW5DE8Js1N8Urw=="
+1521232382845	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=gpLsYXitw7De01PeD+ouryTOfILEp3e7cbTuE610DrjBRhDMYBABYsbf7XXY5mfKGi8qNltAHW5DE8Js1N8Urw=="
+1521232382845	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=gpLsYXitw7De01PeD+ouryTOfILEp3e7cbTuE610DrjBRhDMYBABYsbf7XXY5mfKGi8qNltAHW5DE8Js1N8Urw=="
+1521232383065	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521232383072	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521232383171	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+1521232418641	geckodriver	INFO	geckodriver 0.19.1
+1521232418647	geckodriver	INFO	Listening on 127.0.0.1:45806
+1521232419740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.M4YrXps20J8l"
+1521232421433	Marionette	INFO	Enabled via --marionette
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10440): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10440): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10440): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10440): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10440): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10440): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521232424163	Marionette	INFO	Listening on port 33283
+1521232424332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521232424397	Marionette	DEBUG	Register listener.js for window 2147483649
+1521232424420	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521232426408	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521232426408	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521232426975	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521232427332	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521232429771	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521232430053	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521232430053	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521232430311	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521232431524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=synOCTay9XlIz6qmyRzczW4UQ2ZsP1SbBNYIdugK0I/SXMLN8sjMb0JLJLmIRSn6J+9SU9rC9wtcVftR4gHQUQ=="
+1521232432204	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=synOCTay9XlIz6qmyRzczW4UQ2ZsP1SbBNYIdugK0I/SXMLN8sjMb0JLJLmIRSn6J+9SU9rC9wtcVftR4gHQUQ=="
+1521232432477	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232432722	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232432966	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232432993	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=synOCTay9XlIz6qmyRzczW4UQ2ZsP1SbBNYIdugK0I/SXMLN8sjMb0JLJLmIRSn6J+9SU9rC9wtcVftR4gHQUQ=="
+1521232434235	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=synOCTay9XlIz6qmyRzczW4UQ2ZsP1SbBNYIdugK0I/SXMLN8sjMb0JLJLmIRSn6J+9SU9rC9wtcVftR4gHQUQ=="
+1521232434235	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=synOCTay9XlIz6qmyRzczW4UQ2ZsP1SbBNYIdugK0I/SXMLN8sjMb0JLJLmIRSn6J+9SU9rC9wtcVftR4gHQUQ=="
+1521232434445	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521232434502	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521232434636	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+1521232516682	geckodriver	INFO	geckodriver 0.19.1
+1521232516685	geckodriver	INFO	Listening on 127.0.0.1:55971
+1521232517769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cJUqLNtTlCDz"
+1521232520109	Marionette	INFO	Enabled via --marionette
+
+(firefox:10561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10561): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10561): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10621): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10621): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10621): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10621): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10621): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10621): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521232523151	Marionette	INFO	Listening on port 45420
+1521232523282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521232523333	Marionette	DEBUG	Register listener.js for window 2147483649
+1521232523350	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521232524280	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521232524280	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521232525051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521232525486	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521232527165	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521232527458	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521232527458	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521232527734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521232529157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=PLRoiJLRX0krM1SdFtYnFvT4nyRBHzEycVaf6DlNJZSwIaUB83awscv2GQy2x/BuUS8BrAzoi9TLTi8I9gor9g=="
+1521232529799	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=PLRoiJLRX0krM1SdFtYnFvT4nyRBHzEycVaf6DlNJZSwIaUB83awscv2GQy2x/BuUS8BrAzoi9TLTi8I9gor9g=="
+1521232530066	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232530307	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232530544	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232530563	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=PLRoiJLRX0krM1SdFtYnFvT4nyRBHzEycVaf6DlNJZSwIaUB83awscv2GQy2x/BuUS8BrAzoi9TLTi8I9gor9g=="
+1521232531676	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=PLRoiJLRX0krM1SdFtYnFvT4nyRBHzEycVaf6DlNJZSwIaUB83awscv2GQy2x/BuUS8BrAzoi9TLTi8I9gor9g=="
+1521232531677	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=PLRoiJLRX0krM1SdFtYnFvT4nyRBHzEycVaf6DlNJZSwIaUB83awscv2GQy2x/BuUS8BrAzoi9TLTi8I9gor9g=="
+1521232531883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521232531941	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521232532085	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.fieldglass.net
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10378): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521232678328	geckodriver	INFO	geckodriver 0.19.1
+1521232678331	geckodriver	INFO	Listening on 127.0.0.1:49443
+1521232679573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NzrBhkjyv3O7"
+1521232682388	Marionette	INFO	Enabled via --marionette
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10796): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10796): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10796): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10796): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10796): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10796): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521232688158	Marionette	INFO	Listening on port 51645
+1521232688287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521232688336	Marionette	DEBUG	Register listener.js for window 2147483649
+1521232688357	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521232690407	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521232690407	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521232690909	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521232691229	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521232693144	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521232693524	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521232693524	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521232693814	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521232695242	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=+3uyavaq0jbLh74NpDV/X4Qfif74+6/hat3kvbBeIziMT9w/06SI+HSwOUCK7lJ93roLLdHeIPq3StDqMViS+Q=="
+1521232695893	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=+3uyavaq0jbLh74NpDV/X4Qfif74+6/hat3kvbBeIziMT9w/06SI+HSwOUCK7lJ93roLLdHeIPq3StDqMViS+Q=="
+1521232696169	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232696404	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232696639	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232696672	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=+3uyavaq0jbLh74NpDV/X4Qfif74+6/hat3kvbBeIziMT9w/06SI+HSwOUCK7lJ93roLLdHeIPq3StDqMViS+Q=="
+1521232697511	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=+3uyavaq0jbLh74NpDV/X4Qfif74+6/hat3kvbBeIziMT9w/06SI+HSwOUCK7lJ93roLLdHeIPq3StDqMViS+Q=="
+1521232697512	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=+3uyavaq0jbLh74NpDV/X4Qfif74+6/hat3kvbBeIziMT9w/06SI+HSwOUCK7lJ93roLLdHeIPq3StDqMViS+Q=="
+1521232697723	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521232697784	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521232697944	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10736): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521232728594	geckodriver	INFO	geckodriver 0.19.1
+1521232728602	geckodriver	INFO	Listening on 127.0.0.1:54435
+1521232729690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iOyM40aQxiBK"
+1521232730194	Marionette	INFO	Enabled via --marionette
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10948): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10948): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10948): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:10948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521232732321	Marionette	INFO	Listening on port 47936
+1521232732529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521232732583	Marionette	DEBUG	Register listener.js for window 2147483649
+1521232732596	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521232734619	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521232734620	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521232735202	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521232735557	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521232737317	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521232737563	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521232737563	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521232737818	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521232740030	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=R+Xc7IWFrlkKOcbECN2gQIc+iyDoDVcPkNDVMxKwUVHHG6fnS2hdFxlzg6ImPGcjXKOSUEaXAUm73W9q9XsJ5w=="
+1521232740668	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=R+Xc7IWFrlkKOcbECN2gQIc+iyDoDVcPkNDVMxKwUVHHG6fnS2hdFxlzg6ImPGcjXKOSUEaXAUm73W9q9XsJ5w=="
+1521232740926	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232741171	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232741392	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521232741421	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=R+Xc7IWFrlkKOcbECN2gQIc+iyDoDVcPkNDVMxKwUVHHG6fnS2hdFxlzg6ImPGcjXKOSUEaXAUm73W9q9XsJ5w=="
+1521232742207	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=R+Xc7IWFrlkKOcbECN2gQIc+iyDoDVcPkNDVMxKwUVHHG6fnS2hdFxlzg6ImPGcjXKOSUEaXAUm73W9q9XsJ5w=="
+1521232742207	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=R+Xc7IWFrlkKOcbECN2gQIc+iyDoDVcPkNDVMxKwUVHHG6fnS2hdFxlzg6ImPGcjXKOSUEaXAUm73W9q9XsJ5w=="
+1521232742460	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521232742518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521232742644	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10886): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521233109437	geckodriver	INFO	geckodriver 0.19.1
+1521233109442	geckodriver	INFO	Listening on 127.0.0.1:42985
+1521233110549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Zr7XWLtRIMKp"
+1521233111073	Marionette	INFO	Enabled via --marionette
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:11186): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:11186): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:11186): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:11186): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:11186): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox.sh:11186): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1521233113100	Marionette	INFO	Listening on port 58088
+1521233113228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521233113284	Marionette	DEBUG	Register listener.js for window 2147483649
+1521233113314	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1521233114444	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1521233114445	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1521233115121	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/"
+1521233115573	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/"
+1521233117777	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/worker_desktop.do"
+1521233118277	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/worker_desktop.do"
+1521233118277	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/worker_desktop.do"
+1521233118542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fieldglass.net/scripts/jqwidgets/jqx-all-4.2.1.vc0b12ffa7d6646f8c254c770a25e47ea.js, line 7: unreachable code after return statement
+1521233119976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=BY6M9nj5M2DwluIrT250iwFOWBB3EvTJDoyneiwzGUf1VMczEow+QbI/80UdViS58dMAhjwMspipe6d/wo82BA=="
+1521233120711	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=BY6M9nj5M2DwluIrT250iwFOWBB3EvTJDoyneiwzGUf1VMczEow+QbI/80UdViS58dMAhjwMspipe6d/wo82BA=="
+1521233120968	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521233121211	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521233121440	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1521233121482	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=BY6M9nj5M2DwluIrT250iwFOWBB3EvTJDoyneiwzGUf1VMczEow+QbI/80UdViS58dMAhjwMspipe6d/wo82BA=="
+1521233122261	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=BY6M9nj5M2DwluIrT250iwFOWBB3EvTJDoyneiwzGUf1VMczEow+QbI/80UdViS58dMAhjwMspipe6d/wo82BA=="
+1521233122262	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do?id=z1803072201119251703292e&buyerCode=VZGT&workerId=z1803072201115031420892e&sgjy=BY6M9nj5M2DwluIrT250iwFOWBB3EvTJDoyneiwzGUf1VMczEow+QbI/80UdViS58dMAhjwMspipe6d/wo82BA=="
+1521233122465	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1521233122515	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521233122624	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+1521233123034	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.fieldglass.net/time_sheet_form.do"
+1521233125649	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.fieldglass.net/time_sheet_form.do"
+1521233125649	Marionette	DEBUG	Received DOM event "unload" for "https://www.fieldglass.net/time_sheet_form.do"
+1521233125891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1521233125893	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.fieldglass.net/time_sheet_form.do"
+1521233126176	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.fieldglass.net/time_sheet_form.do"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11126): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
