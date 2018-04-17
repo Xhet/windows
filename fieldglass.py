@@ -10,6 +10,7 @@ from time import sleep
 
 
 def fill_time(page, day_off):
+    print(day_off)
     wait = WebDriverWait(page, 5)
     page.get("http://www.fieldglass.net")
 
@@ -60,7 +61,7 @@ class GUI(tk.Tk):
             aCheckButton = tk.Checkbutton(self, text=key,
                                           variable=self.daysDic[key])
             aCheckButton.grid(sticky='w')
-            self.daysDic[key].set(0)
+            self.daysDic[key].set(1)
 
         submitButton = tk.Button(self, text="Submit",
                                  command=self.query_checkbuttons)
@@ -71,10 +72,11 @@ class GUI(tk.Tk):
         day_off = []
         for key, value in self.daysDic.items():
             state = value.get()
-            if state != 0:
+            if state != 1:
                 day_off.append(key)
                 self.daysDic[key].set(0)
-        fill_time(webdriver.Firefox(), day_off)
+        fill_time(webdriver.Chrome(), day_off)
+        sleep(30)
         self.quit()
 
 
