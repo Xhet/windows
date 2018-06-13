@@ -1,9 +1,9 @@
-user = "casader"
-password = "Eri809@03"
+user = ""
+password = ""
 hours = {
-    "AWS": {'monday': 5, 'tuesday': 5, 'wednesday': 5, 'thursday': 5, 'friday': 5},
-    "Virtual": {'monday': 2, 'tuesday': 2, 'wednesday': 2, 'thursday': 2, 'friday': 2},
-    "Global": {'monday': 1, 'tuesday': 1, 'wednesday': 1, 'thursday': 1, 'friday': 1}
+    "AWS": {'monday': 2, 'tuesday': 2, 'wednesday': 2, 'thursday': 2, 'friday': 2},
+    "Customer": {'monday': 3, 'tuesday': 3, 'wednesday': 3, 'thursday': 3, 'friday': 3},
+    "Global": {'monday': 3, 'tuesday': 3, 'wednesday': 3, 'thursday': 3, 'friday': 3}
 }
 weekday = {'monday': '2', 'tuesday': '3',
            'wednesday': '4', 'thursday': '5', 'friday': '6'}

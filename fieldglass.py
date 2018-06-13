@@ -23,7 +23,7 @@ def fill_time(page, day_off):
         page.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         sleep(2)
         page.find_element_by_xpath(
-            "(//input[@name='cSelCheckBox'])[4]").click()
+            "(//input[@name='cSelCheckBox'])[7]").click()
         page.find_element_by_xpath(
             "(//input[@name='cSelCheckBox'])[5]").click()
         page.find_element_by_xpath(
